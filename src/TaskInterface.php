@@ -1,5 +1,5 @@
 <?php
-namespace trgino\Http;
+namespace Trgino\Http;
 
 
 interface TaskInterface

@@ -1,5 +1,5 @@
 <?php
-namespace trgino\Http;
+namespace Trgino\Http;
 
 
 use React\Promise\Deferred;

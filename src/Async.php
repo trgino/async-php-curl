@@ -10,7 +10,7 @@ class Async
      * multi-curl resource
      * @var resource
      */
-    protected $curl;
+    protected $curl = false;
 
     /**
      * @var Task[] array

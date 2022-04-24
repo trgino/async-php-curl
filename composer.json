@@ -1,0 +1,19 @@
+{
+  "name": "trgino/async-php-curl",
+  "description": "php curl async client",
+  "license": "MIT",
+  "type": "package",
+  "require": {
+    "php": ">=7.2.0",
+    "ext-curl": "*"
+  },
+  "require-dev": {
+    "jenner/timer": "v0.1",
+    "react/promise": "v2.2.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "trgino\\Http\\": "./src"
+    }
+  }
+}

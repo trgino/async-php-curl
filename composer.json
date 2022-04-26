@@ -1,5 +1,6 @@
 {
   "name": "trgino/async-php-curl",
+  "version": "0.1.1",
   "description": "php curl async client",
   "license": "MIT",
   "type": "package",
